@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @yashdarak08, I recently completed my Masters in Applied Math at NYU! 
+- 👋 Hi, I’m @yashdarak08, I recently joined TikTok as an MLE.
+- I completed my Masters in Applied Math at NYU! 
 - 👀 My academic interests lie in Machine Learning, Probability Theory, Bayesian Statistics, Data Science and Quantitative Research.
 - 💞️I love solving puzzles, sudokus, logical reasoning problems, brain teasers, etc 
 - 📫 You can reach me by email - yashdarak08@gmail.com
