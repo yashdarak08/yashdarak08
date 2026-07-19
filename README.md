@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashdarak08, I recently joined TikTok as an MLE.
+- 👋 Hi, I’m @yashdarak08, I joined Google as an MLE.
 - I completed my Masters in Applied Math at NYU! 
 - 👀 My academic interests lie in Machine Learning, Probability Theory, Bayesian Statistics, Data Science and Quantitative Research.
 - 💞️I love solving puzzles, sudokus, logical reasoning problems, brain teasers, etc 
